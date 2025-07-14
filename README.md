@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Michelle and I'm a 3rd year student currently majoring in Computer Science at B.M.S College of Engineering, Bengaluru.
 
-- 🔭 I’m currently working on building a mini social app with an exclusive domain user base to make it more useful to my targeted user base.
+- 🔭 I’m currently working on building a mini social app for an exclusive domain user base.
 - 🌱 I’m currently learning mobile dev, python and Finance & Economics minor degree program.
 - 👯 I’m looking to collaborate on any security projects or fun hackathons!
 <!--
